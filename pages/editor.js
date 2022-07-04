@@ -56,7 +56,7 @@ export default function Editor() {
   return (
     <div className={styles.container}>
       <Head>Studio</Head>
-      Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur adipisicing
+      Lorem, ipsum dolor. Lorem fers dolor sit amet consectetur adipisicing
       elit. Minus, fugit alias id placeat consequatur similique voluptatibus.
       <div className={styles.editorOverlay}>
         <div className={styles.imgContainer}></div>
